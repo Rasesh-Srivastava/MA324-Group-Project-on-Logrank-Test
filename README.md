@@ -1,3 +1,5 @@
+This repository contains the codes for the group project on "Log-rank Test" for the course MA324
+
 # Group Members
 - Rasesh Srivastava
 - Vidya Sagar G
