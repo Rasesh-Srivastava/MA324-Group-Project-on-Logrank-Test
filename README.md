@@ -1,3 +1,11 @@
+# Group Members
+- Rasesh Srivastava
+- Vidya Sagar G
+- Kishlay Soni
+- Karan Garg
+- Aditya Gupta
+
+# Project Details
 We are creating this project in 3 stages:-
   1) Simple Logrank Test
   2) Weighted Logrank Test
@@ -16,7 +24,7 @@ We have worked on the following implementations of
   3) Power and Efficiency of the Weighted Log-Rank test for synthetic data generated
   4) Weighted Log-Rank and Power of the test for various Real World Datasets
 
-In the third stage, we have considered the various weighted versions of the Log-Rank test mentioned above and modified the Random Survival Forest algorithm to use these weight distributions.
+In the third stage, we considered the various weighted versions of the Log-Rank test mentioned above and modified the Random Survival Forest algorithm to use these weight distributions.
 
 **<h2>References</h2>**
 1) https://web.stanford.edu/~lutian/coursepdf/unitweek3.pdf
@@ -38,9 +46,3 @@ https://github.com/julianspaeth/random-survival-forest/tree/master/random_surviv
   https://archive.ics.uci.edu/dataset/38/echocardiogram
 4) SurvivalCovid.csv-
   https://www.kaggle.com/datasets/aysuncag/covid19-survival-dataset
-
-
-     
-**<h2>Disclaimer</h2>**
-
-The work is just for exploration purpose. Any significant output can not be published or made commercialised without mentor's consent. You agree with the fact that it is fully mentor's discretion whether future extension of the work will bring you as a contributor.
